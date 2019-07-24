@@ -40,6 +40,6 @@ func main() {
 }
 
 func sum (a, b int) int {
-  s := a + b
-  return s
+  t := a + b
+  return t
 }
